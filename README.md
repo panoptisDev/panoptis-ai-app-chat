@@ -101,8 +101,7 @@ Feel free to contribute to this project by submitting issues or pull requests. F
 ## 📧 Contact
 
 For questions or suggestions, contact me at:  
-**telegram:** t.me/PanoptisNetwork
-**github:** https://github.com/panoptisDev
+[Telegram](https://t.me/PanoptisNetwork) | [GitHub](https://github.com/panoptisDev)
 
 If you find the app useful star it on github 
 Enjoy! //panoptisDev
