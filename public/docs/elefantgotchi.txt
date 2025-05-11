@@ -1,0 +1,55 @@
+cat > public/docs/elefantgotchi.txt << 'EOF'
+ElefantgotchiV2 Laboratory Guide
+
+What can I do in the Elefantgotchi Laboratory?
+The ElefantgotchiV2 Laboratory is where you can manage and improve your Elefantgotchi NFTs. You can:
+- Upgrade different traits of your Elefantgotchis
+- Breed two Elefantgotchis to create a new one with combined traits
+- Restart hibernating Elefantgotchis (or burn them if you no longer want them)
+- Pet your Elefantgotchis to care for them and help them evolve
+- Track the evolution progress of your Elefantgotchi collection
+
+Upgrade Traits
+Each Elefantgotchi has 5 traits that affect its staking power:
+Base Reward: The basic daily reward rate
+Bonus Reward: Extra rewards earned during active staking
+Penalty Rate: How quickly rewards decrease during hibernation
+Bonus Period: How long the bonus lasts
+Multiplier: Overall reward multiplier
+
+Each upgrade costs 20 ELFT tokens and increases a trait by 10 points.
+There's a cooldown period between upgrades, shown in the interface.
+
+Breeding
+Breeding allows you to create a new Elefantgotchi by combining traits from two parents:
+Select two different parent Elefantgotchis you own
+Pay 20 ELFT tokens for breeding
+The new Elefantgotchi will have traits derived from both parents
+Each Elefantgotchi can only breed once in its lifetime
+It’s like a 3 for the price of 2 deal
+
+Breeding is a great way to create Elefantgotchis with better trait combinations!
+
+Hibernation Management
+Elefantgotchis enter hibernation if not regularly petted or from other contract interactions. When hibernating:
+They don't earn staking rewards
+Their staking power decreases over time
+You can restart them for 20 ELFT tokens
+Or burn them if you no longer want them
+
+Petting & Evolution
+Regular petting keeps your Elefantgotchis healthy and helps them evolve:
+Pet every 24 hours to maintain health
+Every 10 pets your Elefantgotchi evolves to the next stage
+- 🥉 → 🥈 → 🥇 Evolution stages: Bronze → Silver → Gold
+Higher evolution stages have better staking bonuses
+A fully upgraded Elefantgotchi often brings a higher value on auctions
+
+Gas Costs & Transactions
+Each action in the laboratory requires a blockchain transaction:
+You'll need to approve ELFT token spending (for upgrades, breeding, and restarting)
+each transaction requires gas fees in addition to any ELFT costs
+Wait for transaction confirmations before performing another action
+
+Keep some ETH in your wallet for gas fees!
+EOF

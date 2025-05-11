@@ -1,0 +1,36 @@
+cat > public/docs/faq.txt << 'EOF'
+# Frequently Asked Questions
+
+## General Questions
+
+### What is Panoptis?
+Panoptis is an AI-powered chat assistant that can answer questions in multiple languages and provide information about our app.
+
+### How do I start using Panoptis?
+Simply type your message in the chat box and press enter or click the send button. Panoptis will respond instantly.
+
+### What languages does Panoptis support?
+Panoptis supports multiple languages including English, Spanish, French, German, Italian, Portuguese, and many more. Just chat in your preferred language.
+
+## Technical Questions
+
+### How does Panoptis work?
+Panoptis uses Cohere's advanced AI models to understand your questions and provide helpful responses. It also has access to a knowledge base with specific information about our app.
+
+### Is my conversation with Panoptis private?
+Yes, your conversations with Panoptis are not stored permanently and are only used to provide you with the best responses.
+
+### Can I integrate Panoptis with my own app?
+Yes, we offer API access for enterprise customers. Please contact our sales team for more information.
+
+## Billing Questions
+
+### How much does Panoptis cost?
+Panoptis offers a free tier with basic features and premium plans starting at $9.99/month. See our pricing page for more details.
+
+### How do I upgrade my plan?
+You can upgrade your plan by visiting your account settings and selecting the plan that best fits your needs.
+
+### Do you offer refunds?
+Yes, we offer a 14-day money-back guarantee for all new premium subscriptions.
+EOF

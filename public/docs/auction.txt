@@ -1,0 +1,51 @@
+About Creating NFT Auctions
+
+Welcome to the ElefantasticAuction creation page! Here you can list your NFTs for auction.
+
+How to Create an Auction
+
+Select Your NFT: Choose an NFT from your wallet that you wish to auction.
+
+Set Starting Bid: Determine the minimum starting bid for your auction. Let’s say you’d like to get at least 5 ELFT Tokens — input 5 and click the arrow up on the input field to add the necessary decimals, making it 5.0001.
+
+Choose Currency: Select whether you want bids in ETH or ELFT tokens.
+
+Set Duration: Choose how long your auction will run.
+
+Approve NFT Transfer: You'll need to approve the auction contract to transfer your NFT when the auction completes.
+
+Create Auction: Confirm the transaction to list your NFT.
+
+Important Information
+
+Committed Listing: Once an auction starts, it cannot be cancelled until it ends.
+
+Anti-Sniping Protection: If a bid is placed in the final 15 minutes, the auction is extended by 15 minutes.
+
+Supported Collections: Only NFTs from whitelisted collections can be auctioned.
+
+Gas Fees: Creating an auction requires two transactions (approve + create), and you'll pay gas fees for both.
+
+No Platform Fees: We don’t charge any fees — you receive 100% of the winning bid.
+
+After Your Auction Ends
+
+If your auction receives bids, the highest bidder can claim the NFT after the auction ends.
+
+When the winner claims the NFT, the bid amount will be added to your withdrawal balance found in “My Dashboard.”
+
+You can withdraw your funds from the My Dashboard page.
+
+If no bids are placed, you'll need to claim your NFT back from the Dashboard. You only pay for gas and can try listing your NFT again.
+
+Tips for Successful Auctions
+
+Set a reasonable starting bid to attract initial interest.
+
+Choose the right duration — longer isn’t always better.
+
+Consider which currency your target buyers prefer.
+
+Share your auction on social media to drive more bidders.
+
+Monitor your auction in the Dashboard to track bidding activity.

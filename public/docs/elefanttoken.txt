@@ -1,0 +1,1 @@
+$ELFT ElefantToken is an ERC-20 token on the Polygon blockchain. It serves as the primary currency within the Elefantastic ecosystem, used for various purposes such as purchasing NFTs. Additionally, ELFT is the reward token earned by participating in any of the Elefantastic staking pools.

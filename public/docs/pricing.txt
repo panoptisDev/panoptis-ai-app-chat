@@ -1,0 +1,24 @@
+cat > public/docs/pricing.txt << 'EOF'
+# Panoptis Pricing Information
+
+## Free Tier
+- Up to 100 messages per day
+- Basic app information
+- Multi-language support
+- Mobile and desktop access
+
+## Premium Plan - $9.99/month
+- Unlimited messages
+- Priority response time
+- Advanced features access
+- Custom API integration
+
+## Enterprise Plan - Contact for pricing
+- Custom deployment options
+- Dedicated support
+- White-label solutions
+- Advanced analytics
+- SLA guarantees
+
+For more information or custom pricing, please contact sales@panoptis.ai
+EOF

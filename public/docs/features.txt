@@ -1,0 +1,20 @@
+cat > public/docs/features.txt << 'EOF'
+# Panoptis App Features
+
+## Key Features
+- Multi-language support for global users
+- AI-powered responses using Cohere's advanced language models
+- Real-time conversation with instant replies
+- Beautiful, responsive UI for all device types
+- Knowledge base integration for app-specific information
+- Confetti animations for delightful user experience
+
+## Language Support
+Panoptis can understand and respond in multiple languages, making it accessible to users worldwide. Just write in your preferred language, and Panoptis will respond accordingly.
+
+## Technical Features
+- Built on Next.js 14 for optimal performance
+- Framer Motion animations for smooth UI transitions
+- Responsive design that works on mobile, tablet, and desktop
+- Integration with Cohere AI for natural language understanding
+EOF
